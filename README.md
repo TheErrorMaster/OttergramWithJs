@@ -1,2 +1,2 @@
 # OttergramWithJs
-![](img/.jpg)
+![](img/final.png)
